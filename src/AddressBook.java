@@ -2,6 +2,8 @@ import java.util.ArrayList;
 
 public class AddressBook {
     ArrayList<BuddyInfo> buddies;
+
+    //Constructor for the class AddressBook
     public AddressBook() {
         buddies = new ArrayList<>();
     }
