@@ -3,7 +3,7 @@ public class BuddyInfo {
     String Address;
     int phoneNumber;
 
-
+//Constructor for class BuddyInfo
     public BuddyInfo(String name, String Address, int phoneNumber) {
         this.name = name;
         this.Address = Address;
